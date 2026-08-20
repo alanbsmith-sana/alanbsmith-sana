@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, there! 👋
 
-<!--
-**alanbsmith-sana/alanbsmith-sana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alan.
 
-Here are some ideas to get you started:
+💻 Design System Engineer
+⛰️ Boulder, CO, USA
+☕ Espresso enthusiast
+🍕 🍝 Pizzaiolo e pastaio
+🍸 Cocktail connoisseur
+⚽ Football fan
+👨‍👩‍👧‍👦 Dad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And this GIF is how I feel most days. 😂
+
+![a dog happily typing on a laptop gif](https://github.com/user-attachments/assets/5a8a9a19-0760-43a8-b166-caa8877c2973)
