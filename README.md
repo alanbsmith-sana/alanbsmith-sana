@@ -2,13 +2,13 @@
 
 I'm Alan.
 
-💻 Design System Engineer
-⛰️ Boulder, CO, USA
-☕ Espresso enthusiast
-🍕 🍝 Pizzaiolo e pastaio
-🍸 Cocktail connoisseur
-⚽ Football fan
-👨‍👩‍👧‍👦 Dad
+* 💻 Design System Engineer
+* ⛰️ Boulder, CO, USA
+* ☕ Espresso enthusiast
+* 🍕 🍝 Pizzaiolo e pastaio
+* 🍸 Cocktail connoisseur
+* ⚽ Football fan
+* 👨‍👩‍👧‍👦 Dad
 
 And this GIF is how I feel most days. 😂
 
